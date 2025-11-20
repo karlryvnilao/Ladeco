@@ -260,7 +260,7 @@ section.focus .page-header:after {
 }
 .banner .bc-left {
   color: #e7e6f1;
-  background: #907dda;
+  background: rgb(0 211 77);
 }
 .banner .bc-right {
   color: #333;
